@@ -9001,4 +9001,6 @@ const issues = [
   }
 ];
 
-var issuesWithUpdatedApiUrl = 
+var issuesWithUpdatedApiUrl = issues.map(function () {
+  
+})
